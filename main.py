@@ -8,6 +8,7 @@ from schema import Item, ItemBase, ItemCreate
 app = FastAPI()
 
 models.Base.metadata.create_all(bind=database.engine)
+
 @app.get("/")
 def home():
     return {"qualquercoisa": "jornada"}

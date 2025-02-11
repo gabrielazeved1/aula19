@@ -4,7 +4,10 @@ version = "0.1.0"
 description = ""
 authors = [
     {name = "Gabriel Azevedo",email = "g.azevedo0121@gmail.com"}
+    
 ]
+
+
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [

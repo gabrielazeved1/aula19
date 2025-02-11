@@ -1,4 +1,4 @@
-# Aula19 - API FastAPI com SQLAlchemy
+# API FastAPI com SQLAlchemy
 
 ## Descrição
 
